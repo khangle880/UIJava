@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "f:\\sortware\\intellij\\jfoenix-9.0.10.jar"
+    ]
+}
